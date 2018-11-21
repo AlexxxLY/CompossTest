@@ -1,0 +1,16 @@
+{
+    "name": "alex/progect",
+    "description": "It is Test",
+    "type": "library",
+    "require": {
+        "doctrine/orm": "^2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Lyapko",
+            "email": "alexxx.ax4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
